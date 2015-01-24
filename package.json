@@ -1,0 +1,31 @@
+{
+  "name": "hello-svg-express",
+  "version": "0.0.0",
+  "description": "Simple example of how to use SVG images on web pages.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.11.1",
+    "gulp": "~3.8.10",
+    "gulp-svgstore": "~4.0.1",
+    "cheerio": "~0.18.0"
+  },
+  "devDependencies": {
+    "svgo": "~0.5.0",
+    "gulp-svgo": "~0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ixdabloomington/hello-svg-express.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Dan Hiester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ixdabloomington/hello-svg-express/issues"
+  }
+}

@@ -1,0 +1,1 @@
+Drop the SVG files you want to combine in this folder.
