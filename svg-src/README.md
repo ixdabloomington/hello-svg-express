@@ -1,1 +1,1 @@
-Drop the SVG files you want to combine in this folder.
+Drop the SVG files you want to combine in this folder. Unfortunately, the included icons don't work well with svgstore. However, if you replace these icons with flat icons, you should be in good shape.
